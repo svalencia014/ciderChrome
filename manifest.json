@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "My Extension",
+    "version": "1",
+    "description": "A plain text description",
+    "action": {
+        "default_icon": {
+            "16": "imgs/ciderLogo.png",
+            "24": "imgs/ciderLogo.png",
+            "32": "imgs/ciderLogo.png"
+        },
+        "default_title": "My Extension",
+        "default_popup": "html/popup.html"
+    }
+}
